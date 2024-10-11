@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255044703156",
+    "project_id": "jassocompanydb",
+    "storage_bucket": "jassocompanydb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255044703156:android:c029ad4bd66b500e5998e1",
+        "android_client_info": {
+          "package_name": "com.jasso.inteligenciaenventas.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255044703156-60lcgnrhhl77qaft64bvu9tn8cmfhouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfzB8AT5qkSRQP1S8hLstDhO6RhY1B6XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255044703156-60lcgnrhhl77qaft64bvu9tn8cmfhouf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
