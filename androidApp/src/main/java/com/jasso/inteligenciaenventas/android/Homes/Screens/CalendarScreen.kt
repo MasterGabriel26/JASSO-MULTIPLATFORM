@@ -59,6 +59,7 @@ fun CalendarScreen() {
             .whereLessThan("fechaAgenda", endMonth)
             .get()
             .addOnSuccessListener { citasSnapshot ->
+                events.clear()
                 citasSnapshot.documents.forEach { citaDocument ->
                     citaDocument.toObject(CalendarioModel::class.java)?.let { evento ->
                         events.add(evento)
